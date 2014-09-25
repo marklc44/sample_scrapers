@@ -1,0 +1,1 @@
+This is just a place for me to collect scrapers, so when I need to remember how I did something, I can.
